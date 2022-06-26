@@ -5,7 +5,7 @@
         "Renamer Bot",
         "Mongo DB"
     ],
-    "repository": "https://github.com/Natya00/RENAMER_BOT",
+    "repository": "https://github.com/Rajbots/RENAMER-CLONE",
     "success_url": "https://telegram.dog/lntechnical",
     "env": {
         "API_ID": {
